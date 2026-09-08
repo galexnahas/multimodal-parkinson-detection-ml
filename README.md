@@ -13,7 +13,7 @@ I, **Georges-Alex Nahas**, was primarily responsible for the **audio modality**,
 
 A detailed description of the project methodology, experiments, results, and conclusions is available in the **final project report**.
 
-📄 **[Read the full project report](docs/final_report.pdf)**
+📄 **[Read the full project report](Multimodal_PD_report.pdf)**
 
 The report provides additional context on:
 
