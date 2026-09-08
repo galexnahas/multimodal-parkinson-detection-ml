@@ -9,6 +9,25 @@ I, **Georges-Alex Nahas**, was primarily responsible for the **audio modality**,
 
 ---
 
+## Report
+
+A detailed description of the project methodology, experiments, results, and conclusions is available in the **final project report**.
+
+📄 **[Read the full project report](docs/final_report.pdf)**
+
+The report provides additional context on:
+
+- Dataset preprocessing and patient-level splitting
+- Audio and tapping feature engineering
+- Unimodal model architectures
+- Multimodal fusion strategies
+- Evaluation metrics
+- Experimental results
+- Model comparison and interpretation
+- Limitations and future directions
+
+---
+
 > ⚠️ **IMPORTANT: Data Confidentiality**
 > - The mPower dataset is **confidential** and **not included** in this repository.
 > - Access requires approval via Synapse and compliance with the corresponding data-use agreements.
@@ -183,25 +202,6 @@ Contains output figures and model performance summaries from multimodal fusion e
 | File | Description |
 |---|---|
 | `ImageEmbeddingExtractor.py` | Extracts embeddings from image-based representations such as spectrograms and tapping heatmaps |
-
----
-
-## Report
-
-A detailed description of the project methodology, experiments, results, and conclusions is available in the **final project report**.
-
-📄 **[Read the full project report](docs/final_report.pdf)**
-
-The report provides additional context on:
-
-- Dataset preprocessing and patient-level splitting
-- Audio and tapping feature engineering
-- Unimodal model architectures
-- Multimodal fusion strategies
-- Evaluation metrics
-- Experimental results
-- Model comparison and interpretation
-- Limitations and future directions
 
 ---
 
